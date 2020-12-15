@@ -100,14 +100,14 @@ public class Main extends JFrame {
                             }
 
 
-                        };}
+                            };}
 
 
                     catch(Exception ex){
-                        ex.printStackTrace();
+                                ex.printStackTrace();
+                            }
+                        }
                     }
-                }
-            }
 
 
         });
